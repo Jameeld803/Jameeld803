@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Html,CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ jameeld803@outlook.com
+- 📫 How to reach me jameeld803@outlook.com
 
 <!---
 Jameeld803/Jameeld803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
